@@ -1,0 +1,18 @@
+.Card {
+  max-width: 300px;
+  border: 1px solid black;
+  border-radius: 8px;
+  background-color: aqua;
+}
+.Card__image {
+  width: 64px;
+  height: 64px;
+}
+
+.Card__title {
+  font-size: 1.225rem;
+}
+
+.Card__description {
+  font-size: 0.825rem;
+}
